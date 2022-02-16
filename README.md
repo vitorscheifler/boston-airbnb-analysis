@@ -4,11 +4,11 @@ In this project, the listings data of Boston Ainbnb datasets is explored. Here, 
 
 ## Table of Content
 
-[General Info](#general-info)
-[Technologies used](#technologies-used)
-[File Descriptions](#file-descriptions)
-[Results](#results)
-[Licensing, Authors, Acknowledgements](#Acknowledgements)
+* [General Info](#general-info)
+* [Technologies used](#technologies-used)
+* [File Descriptions](#file-descriptions)
+* [Results](#results)
+* [Acknowledgements](#Acknowledgements)
 
 ## General Info
 

@@ -4,11 +4,11 @@ In this project, the listings data of Boston Ainbnb datasets is explored. Here, 
 
 ## Table of Content
 
-[General Info](#General Info)
-[Technologies used](#Technologies used)
-[File Descriptions](#File Descriptions)
-[Results](#Results)
-[Licensing, Authors, Acknowledgements](#Licensing, Authors, Acknowledgements)
+[General Info](#general-info)
+[Technologies used](#technologies-used)
+[File Descriptions](#file-descriptions)
+[Results](#results)
+[Licensing, Authors, Acknowledgements](#Acknowledgements)
 
 ## General Info
 
@@ -31,8 +31,8 @@ In the folder ``inputs``, there is a csv file named ``listings.csv`` with the da
 
 ## Results
 
-The main findings of the code can be found at the post available here. 
+The main findings of the code can be found at the post available [here]. 
 
-## Licensing, Authors, Acknowledgements
+## Acknowledgements
 
-You can find the Licensing for the data and other descriptive information at the Kaggle link available[here](https://www.kaggle.com/airbnb/boston). Otherwise, feel free to use the code here as you would like.
+You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/boston). Otherwise, feel free to use the code here as you would like.

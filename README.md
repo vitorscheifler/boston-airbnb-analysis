@@ -1,6 +1,6 @@
 # Boston Airbnb Analysis
 
-In this project, the listings data of Boston Ainbnb datasets is explored. Here, I focused on answering some question I was curious about the business. This project is from a Udacity course and has educational purpose.
+In this project, the listings data of Boston Ainbnb datasets is explored. Here, I focused on answering some questions I was curious about the business. This project is from a Udacity course and has educational purpose.
 
 ## Table of Content
 
@@ -14,9 +14,11 @@ In this project, the listings data of Boston Ainbnb datasets is explored. Here, 
 
 For this project, I was interested in using the Boston Airbnb dataset to better understand:
  
-- Which cities are the most expensives?
+- Which neighbourhoods are the most expensives?
+
+- How is the distribution of rental properties in the neighbourhoods?
+
 - Which numeric columns have a strong correlation with price?
-- How is the distribution of retal properties in the neighbourhoods?
 
 
 ## Technologies used

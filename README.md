@@ -33,7 +33,7 @@ In the folder ``inputs``, there is a csv file named ``listings.csv`` with the da
 
 ## Results
 
-The main findings of the code can be found at the post available [here]. 
+The main findings of the code can be found at the post available [here](https://medium.com/@vitorscheiflerdealmeida/this-will-make-you-get-by-with-airbnb-in-boston-783707e885e3). 
 
 ## Acknowledgements
 
